@@ -2,10 +2,16 @@
 
 Calendar created with Waveshare 7.5inch e-paper and RaspberryPi zero.
 
-RaspberryPiと Waveshare e-paper 7.5inchを使用して電子カレンダーを作成するプロジェクト。
+RaspberryPiと Waveshare e-paper 7.5inchを使用して予定表を表示する
 
-![Top Image](/image/sample_image1.png)
+<p align="center">
+<img src="https://github.com/9610r/e-paperCalendar/blob/master/images/sample_image1.jpg" width="640">
+</p>
 
+
+https://github.com/mktia/e-calendar
+
+こちらのプロジェクトが素晴らしかったので, 自分用に改変
 
 ## Usage
 
